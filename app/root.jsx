@@ -1,6 +1,6 @@
 import { cssBundleHref } from "@remix-run/css-bundle";
 import stylesheet from "~/tailwind.css";
-
+import styles from "./index.css";
 import {
   Links,
   LiveReload,
@@ -10,8 +10,10 @@ import {
   ScrollRestoration,
 } from "@remix-run/react";
 import NavBar from "./components/navbar";
+import Footer from "./components/footer";
 
 export const links = () => [
+  { rel: "stylesheet", href: styles },
   { rel: "stylesheet", href: stylesheet },
   ...(cssBundleHref ? [{ rel: "stylesheet", href: cssBundleHref }] : []),
 ];
@@ -33,6 +35,7 @@ export default function App() {
           <Scripts />
           <LiveReload />
         </div>
+        <Footer />
       </body>
     </html>
   );
