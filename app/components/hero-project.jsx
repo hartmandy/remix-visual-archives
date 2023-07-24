@@ -15,7 +15,7 @@ export default function HeroProject() {
 
         <div className="p-8">
           <h2 className="font-bold text-xl md:text-2xl lg:text-4xl text-center md:text-left mb-4">
-            Black Mountain College Project
+            Black Mountain College Yearbook
           </h2>
           <p className="text-sm md:text-base lg:text-lg text-gray-600">
             Black Mountain College was an experimental, liberal arts college in
