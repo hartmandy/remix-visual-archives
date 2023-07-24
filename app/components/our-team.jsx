@@ -43,7 +43,7 @@ export default function OurTeam() {
   return (
     <div>
       <h1 className="font-bold text-4xl p-4">Our Team</h1>
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 p-4">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 p-6">
         {teamMembers.map((member, index) => (
           <TeamMember key={index} member={member} />
         ))}
