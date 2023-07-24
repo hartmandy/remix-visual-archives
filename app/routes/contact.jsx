@@ -15,19 +15,19 @@ export default function Contact() {
   return (
     <div className="flex flex-col">
       <main className="flex-grow">
-        <section className="bg-white dark:bg-gray-900">
+        <section>
           <div className="py-8 lg:py-16 px-4 mx-auto max-w-screen-md">
-            <h2 className="font-bold text-2xl md:text-4xl lg:text-5xl p-4 text-center text-gray-900 dark:text-white">
+            <h2 className="font-bold text-2xl md:text-4xl lg:text-5xl p-4 text-center text-gray-900">
               Contact Us
             </h2>
-            <p className="mb-8 lg:mb-16 font-light text-center text-gray-500 dark:text-gray-400 sm:text-xl">
+            <p className="mb-8 lg:mb-16 font-light text-center text-gray-500 sm:text-xl">
               Want to chat about your next project?
             </p>
             <form action="#" className="space-y-8">
               <div>
                 <label
                   htmlFor="email"
-                  className="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300"
+                  className="block mb-2 text-sm font-medium text-gray-900"
                 >
                   Your email
                 </label>
@@ -42,7 +42,7 @@ export default function Contact() {
               <div>
                 <label
                   htmlFor="subject"
-                  className="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300"
+                  className="block mb-2 text-sm font-medium text-gray-900"
                 >
                   Subject
                 </label>
@@ -57,7 +57,7 @@ export default function Contact() {
               <div className="sm:col-span-2">
                 <label
                   htmlFor="message"
-                  className="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-400"
+                  className="block mb-2 text-sm font-medium text-gray-900"
                 >
                   Your message
                 </label>
