@@ -11,13 +11,13 @@ const teamMembers = [
     name: "Amanda Hartman",
     title: "Executive Director",
     img: mandy,
-    bio: "Amanda has worked in museums, archives, and academia for over a decade. She is experienced in visual and web design, archive and museum collections management, and digital educational programming. She has most recently managed large digitization projects, created digital resources for museums and archives, and is always encouraging accessibility and open access of information through her work. She holds a BA in Design from Florida International University, an MA in Museum Education from the University of Florida, an MLIS in Archives Management from the University of South Florida, and is currently a PhD student in Digital History at Clemson.",
+    bio: "Amanda Hartman is the Founder and Executive Director of Visual Archives, leading digital archiving and preservation initiatives for museums and archives. She is also a PhD student in Digital History at Clemson University, where she specializes in digital methodologies for exploring Southern U.S. material culture, specifically focusing on death and funerary objects and mourning practices from the late 1800s to the early 1900s. She also holds a BA in Design from Florida International University, an MA in Museum Education from the University of Florida, and an MLIS in Archives Management from the University of South Florida.",
   },
   {
     name: "Kimberly Cramer",
     title: "Board President",
     img: kimberly,
-    bio: "Bio coming soon!",
+    bio: "Kimberly Cramer currently works at UNC Asheville in the Chancellors Office. She was born and raised just north of Atlanta, GA, Kimberly received a BA in Anthropology and a minor in Fashion Merchandising from the University of Georgia and a MA in Material Culture and Textile Studies from the University of Nebraska-Lincoln. She spends much of her free time hiking with her dogs.",
   },
   {
     name: "Alexis Meldrum",
@@ -35,7 +35,7 @@ const teamMembers = [
     name: "Heather South",
     title: "Board Treasurer",
     img: heather,
-    bio: "Bio coming soon!",
+    bio: "Heather is Lead Archivist of the Western Regional Archives, Department of Cultural Resources, State of North Carolina. The Western Regional Archives (WRA) collects, preserves, and makes available for public use historical and evidential materials relating to western North Carolina.",
   },
 ];
 
