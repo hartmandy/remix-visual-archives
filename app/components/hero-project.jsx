@@ -31,11 +31,11 @@ export default function HeroProject() {
           </p>
           <div className="flex justify-center md:justify-start">
             <a
-              href="https://donorbox.org/black-mountain-college-yearbook"
+              href="https://www.bmcyearbook.org"
               style={{ backgroundColor: "#3c4448" }}
               className="inline-block px-6 py-2 text-white font-semibold rounded-md mt-4"
             >
-              Donate to BMC Yearbook
+              View BMC Yearbook
             </a>
           </div>
         </div>
