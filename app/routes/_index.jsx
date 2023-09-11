@@ -66,7 +66,7 @@ export default function Index() {
             />
           </div>
 
-          <div>
+          <div className="mx-5">
             <label
               htmlFor="email"
               className="block mb-2 text-sm font-medium text-gray-900"
