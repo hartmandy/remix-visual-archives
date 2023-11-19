@@ -14,11 +14,8 @@ export default function NavBar() {
           <NavLink to="/#projects" className="text-gray hover:text-gray-800">
             Projects
           </NavLink>
-          {/* <NavLink to="/about" className="text-gray hover:text-gray-800">
-            About
-          </NavLink> */}
-          <NavLink to="/contact" className="text-gray hover:text-gray-800">
-            Contact
+          <NavLink to="/team" className="text-gray hover:text-gray-800">
+            Our Team
           </NavLink>
         </div>
       </div>
@@ -34,8 +31,8 @@ export default function NavBar() {
           {/* <NavLink to="/about" className="text-gray hover:text-gray-800">
             About
           </NavLink> */}
-          <NavLink to="/contact" className="text-gray hover:text-gray-800">
-            Contact
+          <NavLink to="/team" className="text-gray hover:text-gray-800">
+            Our Team
           </NavLink>
         </div>
       </div>
