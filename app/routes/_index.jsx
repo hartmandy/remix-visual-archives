@@ -21,8 +21,8 @@ export default function Index() {
             Preserving the Past for a Better Future
           </h1>
           <p className="text-sm md:text-base lg:text-lg text-gray-600">
-            Visual Archives creates digital resources for non-profits that
-            promote inclusivity and accessibility.
+            Visual Archives creates digital resources for museums, archives, and
+            higher education that promote inclusivity and accessibility.
           </p>
           <div className="flex justify-center md:justify-start">
             <a

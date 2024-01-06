@@ -16,8 +16,8 @@ export default function Services() {
           Digital Collections Management
         </h2>
         <p className="text-sm md:text-base lg:text-lg text-gray-600">
-          We offer comprehensive solutions to digitize and manage your museum or
-          archive collections, enhancing accessibility and ease of use.
+          We offer comprehensive solutions to digitize and manage your
+          collections, enhancing accessibility and ease of use.
         </p>
       </div>
       <div className="border border-gray-200 rounded p-4">
@@ -30,9 +30,9 @@ export default function Services() {
           Database Design and Maintenance
         </h2>
         <p className="text-sm md:text-base lg:text-lg text-gray-600">
-          Our expert digital archivists specialize in creating efficient and
-          user-friendly databases to manage your collections and resources
-          effectively.
+          Our expert digital archivists and developers specialize in creating
+          efficient and user-friendly databases to manage your collections and
+          resources effectively.
         </p>
       </div>
       <div className="border border-gray-200 rounded p-4">
@@ -46,8 +46,8 @@ export default function Services() {
         </h2>
         <p className="text-sm md:text-base lg:text-lg text-gray-600">
           Visual Archives innovates in creating digital resources to share your
-          museum's research and collections, making your knowledge more
-          inclusive and accessible to a diverse audience.
+          research and collections, making your knowledge more inclusive and
+          accessible to a diverse audience.
         </p>
       </div>
     </div>

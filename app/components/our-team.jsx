@@ -11,7 +11,7 @@ const teamMembers = [
     name: "Amanda Hartman",
     title: "Executive Director",
     img: mandy,
-    bio: "Amanda Hartman is the Founder and Executive Director of Visual Archives, leading digital archiving and preservation initiatives for museums and archives. She is also a PhD student in Digital History at Clemson University, where she specializes in digital methodologies for exploring Southern U.S. material culture, specifically focusing on death and funerary objects and mourning practices from the late 1800s to the early 1900s. She also holds a BA in Design from Florida International University, an MA in Museum Education from the University of Florida, and an MLIS in Archives Management from the University of South Florida.",
+    bio: "Amanda is the founder and executive director of Visual Archives. She holds an MA in art/ museum education, MLIS in archive management, and is currently a PhD student in Digital History at Clemson University focusing on the history of Black Mountain College, race relatiions and the New South. After working in museums and archives for a decade, she made the transition to tech and is now a software developer specializing in applications for museums, archives, and higher education.",
   },
   {
     name: "Kimberly Cramer",
