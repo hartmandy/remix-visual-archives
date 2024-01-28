@@ -26,7 +26,7 @@ export default function Index() {
           </p>
           <div className="flex justify-center md:justify-start">
             <a
-              href="mailto:amandahartman@visualarchives.org"
+              href="mailto:blackmountainarchives@gmail.com"
               style={{ backgroundColor: "#fbf0e6" }}
               className="inline-block px-6 py-2 text-gray font-semibold rounded-md mt-4"
             >
